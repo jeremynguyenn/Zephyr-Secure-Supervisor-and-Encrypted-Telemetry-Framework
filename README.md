@@ -1,3 +1,5 @@
+### For security reasons, only upload photos private the source code.
+
 **Board:** STM32 NUCLEO‑L053R8 | **RTOS:** Zephyr 4.2 | **Focus:** Watchdog health, encrypted telemetry, MISRA-inspired hygiene
 
 Designed for the NUCLEO-L053R8’s 8 KB SRAM envelope, zephyr-secure-supervisor keeps watchdog, crypto, and telemetry services lean so low-power boards can adopt it without extra tuning.
